@@ -1,4 +1,4 @@
-# vue-for-musci-player
+# vue-for-music-player
 
 ## Clone it and Run it
 
